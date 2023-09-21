@@ -1,0 +1,12 @@
+some.html
+# * : all
+*.jpg
+
+#폴더
+# temp
+
+# 폴더/하위
+temp/
+
+# temp단어만
+!temp
